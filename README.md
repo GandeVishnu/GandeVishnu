@@ -45,7 +45,7 @@ src="https://github-readme-stats.vercel.app/api?username=gandevishnu&show_icons=
  <br>
   <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gandevishnu&theme=onedark" alt="gandevishnuvardhan" /> 
+    <img src="https://github-profile-trophy.vercel.app/?username=gandevishnu&theme=onedark" alt="gandevishnu" /> 
   </a>
 </p>
  <br>
