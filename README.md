@@ -37,21 +37,20 @@
 <h2 align="center">My Github Statistics 🔥</h2>   
 <br>
 <p align="center">
-<a href="https://github.com/gandevishnu">
+<a href="https://github.com/GandeVishnu">
 <img align="center" alt="Gande Vishnu Vardhan Github stats"
-src="https://github-readme-stats.vercel.app/api?username=gandevishnu&show_icons=true&bg_color=00000000"/>
+src="https://github-readme-stats.vercel.app/api?username=GandeVishnu&show_icons=true&bg_color=00000000"/>
 </a>
    </p>
  <br>
   <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gandevishnu&theme=onedark" alt="gandevishnu" /> 
+    <img src="https://github-profile-trophy.vercel.app/?username=GandeVishnu&theme=onedark" alt="gandevishnu" /> 
   </a>
 </p>
  <br>
-
  <h2 align="center">My contribution Streak 🔥</h2>
   <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gandevishnu&theme=cobalt&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GandeVishnu&theme=cobalt&hide_border=true" alt="GitHub Streak" /></a>
   </p>
 
