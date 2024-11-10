@@ -1,5 +1,5 @@
 
-# Hi there, I'm Gande Vishnu Vardhan-!!! 👋
+# Hi there, I'm Gande Vishnu Vardhan !!! 👋
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://gandevishnu.github.io/GandeVishnuVardhan/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-vardhan-gande)
@@ -51,6 +51,6 @@ src="https://github-readme-stats.vercel.app/api?username=GandeVishnu&show_icons=
  <br>
  <h2 align="center">My contribution Streak 🔥</h2>
   <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GandeVishnu&theme=cobalt&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gandevishnu&theme=cobalt&hide_border=true" alt="GitHub Streak" /></a>
   </p>
 
