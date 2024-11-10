@@ -37,7 +37,7 @@
 <h2 align="center">My Github Statistics 🔥</h2>   
 <br>
 <p align="center">
-<a href="https:/github.com/gandevishnu">
+<a href="https://github.com/gandevishnu">
 <img align="center" alt="Gande Vishnu Vardhan Github stats"
 src="https://github-readme-stats.vercel.app/api?username=gandevishnu&show_icons=true&bg_color=00000000"/>
 </a>
