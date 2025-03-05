@@ -10,7 +10,7 @@
 
 # I'm a Data Analyst, Business Analyst and Software Developer !!!
 
-- 🔭 I’m currently working as Infosys SpringBoard Intern.
+- 🔭 I’m Successfully completed as Infosys SpringBoard Intern.
 - 💻 **Aspiring Data Analyst** with a strong foundation in data analysis, statistical methods, and data visualization techniques.
 - 📊 **Proficient** in using tools like Python and SQL to clean, analyze and **BI tools** like Tableau and Power BI to visualize data.
 - 🎓 **Educational Background**: Currently pursuing a Bachelor's in Data Analytics at Vellore Institute of Technology AP, where I focus on data collection, data analysis and data-driven decision-making.
