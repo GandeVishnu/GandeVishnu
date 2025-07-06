@@ -1,7 +1,7 @@
 
 # Hi there, I'm Gande Vishnu Vardhan !!! 👋
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://gandevishnu.github.io/GandeVishnuVardhan/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://gandevishnu.github.io/GVV/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-vardhan-gande)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gandevishnu2002@gmail.com)
 [![Codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/vishnugande)
